@@ -2,7 +2,7 @@
 Additions:
  - Solar Expansion, read bottom of post.
  - An optional mod: Journeymap. Disabled by default, you can enable it and disable voxelmap if you like.
-
+ 
 Removals:
  - Solar Flux, read bottom of post.
  - Pam's Simple Recipes
