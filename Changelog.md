@@ -84,6 +84,7 @@ Mod Updates (Mod: old version - new version):
  - Mimicry updated: 1.7.x_1067_1.0.4a - 1.7.x_1286_1.0.5
  - MobiusCore updated: 1.2.3 - 1.2.4
  - ModTweaker 2 updated: 1.7.X-0.7.1 - 1.7.X-0.7.5
+ - Morpheus updated: 1.5.63 - 1.6.4
  - NEI Addons updated: 1.12.4.16 - 1.12.5.17
  - Not Enough Items (NEI) updated: 1.0.4.83 - 1.0.4.94
  - OpenComputers updated: 1.5.2.9 - 1.5.4.11
