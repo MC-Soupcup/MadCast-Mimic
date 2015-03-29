@@ -1,10 +1,11 @@
-## 1.0.2 current (3/27/2015)
+## 1.0.2 current (3/29/2015)
 Additions:
  - Solar Expansion, read bottom of post.
  - An optional mod: Journeymap. Disabled by default, you can enable it and disable voxelmap if you like.
  
 Removals:
  - Solar Flux, read bottom of post.
+ - Flan's Mod is disabled by default for now, until I get more info/figure out the spawn mob error.
  - Pam's Simple Recipes
    - All this did was add a few recipes to the game, it was pointless to have as I've re-added the recipes with Minetweaker.
 
@@ -43,6 +44,7 @@ Fixes and Changes:
     - Redstone has been very slightly increased.
     - Platinum (Shiny Ore) has been reduced by roughly a third. A typo on my end made it spawn more than intended. It's now slightly more common than diamond.
     - Peridot, Ruby, and Sapphire have been reduced by roughly a third. Was spawning a lot more than intended.
+
  
 Known Issues:
  - There is a rare error when the game tries to spawn (?) a mob with a bad ID (?). (S0FPacketSpawnMob error)
