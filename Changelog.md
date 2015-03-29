@@ -1,4 +1,4 @@
-## 1.0.2 Final (3/29/2015)
+## 1.0.2 (3/29/2015)
 Additions:
  - Solar Expansion, read bottom of post.
  - An optional mod: Journeymap. Disabled by default, you can enable it and disable voxelmap if you like.
