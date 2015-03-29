@@ -45,18 +45,6 @@ Fixes and Changes:
     - Platinum (Shiny Ore) has been reduced by roughly a third. A typo on my end made it spawn more than intended. It's now slightly more common than diamond.
     - Peridot, Ruby, and Sapphire have been reduced by roughly a third. Was spawning a lot more than intended.
 
-On Solar Flux:
-
-So there are a few reasons why this is being removed in favor of Solar Expansion. First is that
-it's actually been updated in the past few months. Solar Flux seems almost dead? I'm unsure.
-Second is that Solar Expansion is much more balanced. It follows an '8 of the last tier to make
-the next' thing, and actually gives you more back for the increased costs. The max panel from
-Solar Flux outputted 4096 RF/t, whereas Solar Expansion's max one outputs 32k RF/t, but costs
-a TON of materials to get. The tier III panel from Solar Flux was also too strong for its cost,
-generating 256 RF/t. It was a popular, easy option for power. It's much more difficult to do
-that with Solar Expansion. If I hadn't switched the mods out, I would've just nerfed recipes.
-If we're going to have solar panels, they need to be crazy expensive due to it being free power.
-
 On Minecraft Comes Alive:
 
 MCA had a huge update, they completely rewrote the mod. Unfortunately, we cannot use it, because
@@ -65,7 +53,6 @@ compatible with old worlds. I tested it out and while at first it seemed fine, t
 tracking errors all over the console and an occasional crash when interacting with villager.
 Note that this is on a map with the old MCA, then I updated it, and went into that same world.
 New worlds work perfectly with the mod, but we're not doing that again, so we're not using it.
-
  
 Known Issues:
  - There is a rare error when the game tries to spawn (?) a mob with a bad ID (?). (S0FPacketSpawnMob error)
