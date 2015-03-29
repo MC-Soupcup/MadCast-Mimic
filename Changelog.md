@@ -10,7 +10,7 @@ Removals:
    - All this did was add a few recipes to the game, it was pointless to have as I've re-added the recipes with Minetweaker.
 
 Fixes and Changes:
- - Forge version updated from 1291 to 1341.
+ - Forge version updated from 1291 to 1343.
  - Vanilla Stained Glass can now be re-colored, any combination Stained Glass can surround a dye to become that color.
  - Stained Clay can now be re-colored, same as above.
  - IC2 Refined Iron Ingot removed from the ingotSteel ore dictionary, because I could not remove its recipes from the Induction Smelter. Imbalances other steel recipes too much.
@@ -50,7 +50,7 @@ On Minecraft Comes Alive:
 MCA had a huge update, they completely rewrote the mod. Unfortunately, we cannot use it, because
 they've changed too much. They even have a disclaimer on their site saying that it is not
 compatible with old worlds. I tested it out and while at first it seemed fine, there were
-tracking errors all over the console and an occasional crash when interacting with villager.
+tracking errors all over the console and an occasional crash when interacting with villagers.
 Note that this is on a map with the old MCA, then I updated it, and went into that same world.
 New worlds work perfectly with the mod, but we're not doing that again, so we're not using it.
  
