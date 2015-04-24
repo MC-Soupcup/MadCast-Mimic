@@ -14,6 +14,7 @@ Removals:
 Fixes:
  - Due to the removal of the three mods listed above, there shouldn't be anymore weirdness with AE2 terminals not showing items (let me know if it happens again!)
  - The Thermal Expansion Induction Smelter singleplayer crash seems to have been fixed, I can no longer reproduce it with the new updates. This was likely because Modtweaker updated to fix some issues with TE.
+ - Thanks to a Modtweaker update, steel dust now gives Mekanism steel ingots in Thermal Expansion's Furnace and Induction Smelter, instead of giving Refined Iron.
  - Multi Page Chest now takes an additional Diamond Chest, since it has 5 pages (which are bigger than diamond chests' pages).
  - Fixed a weird thing where ingots of many kinds (e.g. copper ingots) were converting into Thaumcraft Iron Nuggets instead of the proper nuggets.
  - Fixed an Advanced Genetics and Random Things conflict with a heal crystal block.
