@@ -1,6 +1,6 @@
 ## 1.0.3 (4/24/2015)
 Additions:
- - Magical Bees 2.2.2
+ - Magical Bees 2.3.0
     - Adds more bees that do things with Thaumcraft, Ars Magica 2, and more.
  - Steve's Addons 0.10.5
     - Fixes a few Steve's Factory Manager bugs and adds the ability to copy/paste Manager programs (best thing ever pretty much)
@@ -25,7 +25,7 @@ Fixes:
 Mod Updates (Mod: Old Version - New Version):
  - Forge version updated: 10.13.3.1343 - 10.13.3.1392
  - AbyssalCraft updated: 1.8.4.1 - 1.8.5
- - Applied Energistics updated: rv2-beta-18 - rv2-beta-28
+ - Applied Energistics updated: rv2-beta-18 - rv2-beta-29
  - Atum updated: 0.6.57 - 0.6.60
  - Automagy updated: 0.21 - 0.22.2
  - BDLib updated: 1.6.5.52 - 1.7.0.71
