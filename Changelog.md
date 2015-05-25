@@ -1,3 +1,88 @@
+## 1.0.4 (5/25/2015)
+Additions:
+ - None
+ 
+Removals:
+ - None
+ 
+Fixes and Changes:
+ - Fixed an issue where some ingots would turn into Thaumcraft nuggets, and then trying to convert back to ingots would give other metal types (silver would become lead, for example).
+     - This means that crafting of any Thaumcraft nugget (iron, copper, tin, lead, silver) is removed. If this causes any issues within Thaumcraft, let me know. I took the lazy approach to fixing it.
+ - Fixed the Mariculture Vat and Galacticraft Copper Canister recipe conflict.
+ - Fixed the Mariculture Sluice and Refined Relocation Relocator recipe conflict.
+ - Rail recipe now gives 32 rails, I accidentally didn't include this in the last update, though it's been on the server for a long time.
+ - Due to the Forestry update, its machines should now work properly.
+ - Fixed a mistake on my part that made certain Mekanism machines (like the Electrolytic Separator) not show up in NEI.
+ - Seed drop chance for Magical Crops upped from 5% to 8% (it was 10% two builds ago, I ninja changed it and forgot to up it slightly on release, this is equal to the live server).
+ - Stopped Extra Utilities from consuming experience to work the elevators, this was an unintended change due to the config regen.
+ - Biome IDs now match version 1.0.2, and are actually shipped with the update rather than as a separate download. My bad.
+ - Like the above, Mekanism's update is now shipped with it rather than as a separate download.
+ - More turning off of the update checkers. This is an ongoing process.
+ - Changed several config options to be in line with the old ones, basically stuff I missed from the config regen.
+ - Fixed an issue where the Deep Dark portal wasn't working.
+ - Likely some more things I forgot.
+ - Now has a neat custom main menu! Any feedback on this would be appreciated. Let me know if any of it is being weird, or if you have any ideas on how to improve it.
+     - Right now my only idea would be to possibly get custom button textures, but I don't know what they'd look like.
+
+Known Issues:
+ - Mekanism Digital Miner still requires me to reload recipes on world start to get the new recipe to take effect (otherwise both recipes are listed but neither work).
+ - It appears that the Thermal Expansion Smeltery issue is still around, though I can't for the life of me reproduce it since 1.0.3.
+ 
+Mod updates (Mod: Old Version - New Version):
+ - Forge version updated: 1343 - 1407
+ - AbyssalCraft updated: 1.8.5 - 1.8.6.1
+ - AOBD updated: 2.5.0 - 2.6.2
+ - Applied Energistics updated: beta-29 - stable-3
+ - Automagy updated: 0.22.2 - 0.23
+ - BetterStorage updated: 0.12.0.124 - 0.13.1.126
+ - BiblioCraft updated: 1.10.3 - 1.10.4
+ - Biomes O' Plenty updated: 2.1.0.1237 - 2.1.0.1283
+ - Botania updated: r1.6-183 - r1.6-190
+ - Buildcraft updated: 6.4.13 - 6.4.15
+ - CodeChickenCore updated: 1.0.6.39 - 1.0.6.44
+ - CoFHLib updated: 1.0.2-151 - 1.0.2-160
+ - Decocraft updated: 1.12b - 2.0.1
+ - Ender IO updated: 2.2.8.367 - 2.2.8.381
+ - Ender Tech updated: 0.3.2.382 - 0.3.2.388
+ - Ender Utilities updated: 0.3.5.1 - 0.4.0
+ - Ender Zoo updated: 1.0.11.27 - 1.0.11.28
+ - Ender Storage updated: 1.4.7.33 - 1.4.7.36
+ - Extra TiC updated: 1.4.1 - 1.4.4
+ - Extra Utilities updated: 1.2.4b - 1.2.5
+ - Factorization updated: 0.8.89 - 0.8.92
+ - Forestry updated: 3.5.3.11 - 3.5.6.15
+ - Forge Multipart updated: 1.1.2.331 - 1.2.0.344
+ - Funky Locomotion updated: beta-5b - beta-5c
+ - Galacticraft Core/Planets updated: 3.0.11.320 - 3.0.12.339
+ - Ganys Nether updated: 1.7.8 - 1.8.0
+ - IC2 Nuclear Control updated: 2.2.1a - 2.2.5a
+ - IndustrialCraft updated: 2.2.717 - 2.2.720
+ - INpureCore updated: 1.0.0B9-54 - 1.0.0B9-62
+ - Logistics Pipes updated: 0.8.3.118 - 0.8.3.122
+ - Magic Bees updated: 2.3.0 - 2.3.1
+ - Mekanism Generators/Tools/Core version 8.1.2.229 now included in pack by default.
+ - MicdoodleCore update: 3.0.11.320 - 3.0.12.339
+ - Mimicry updated: 1.0.5 - 1.0.9
+ - ModTweaker updated: 0.8.0 - 0.8.1
+ - MrTJPCore updated: 1.0.5.12 - 1.0.6.13
+ - NEI Addons updated: 1.12.5.17 - 1.12.8.29
+ - Not Enough Items updated: 1.0.4.99 - 1.0.4.107
+ - OpenBlocks updated: 1.4.1 - 1.4.3 
+ - Open Computers updated: 1.5.8.17 - 1.5.11.25
+ - OpenModsLib updated: 0.7.1 - 0.7.3
+ - OpenPeripheral AIO updated: 3 - 4
+ - PneumaticCraft updated: 1.6.7-69 - 1.7.0-74
+ - Project Red updated: 4.5.16.77 - 4.6.0.79
+ - Refined Relocation updated: 1.0.8a - 1.0.8b
+ - Simply Jetpacks updated: 1.4.1 - 1.5.1
+ - Solar Expansion updated: 1.5a - 1.6a
+ - Stackie updated: 1.6.0.33 - 1.6.0.35
+ - Steve's Addons updated: 0.10.5 - 1.10.9
+ - Tinkers' Construct updated: 1.8.4a - 1.8.5
+ - Technomancy updated: 0.10.f - 0.10.k
+ - Thaumic Energistics updated: 0.8.9.3a-rv2 - 0.8.10.2
+ - Twilight Forest updated: 2.3.5 - 2.3.7
+
 ## 1.0.3 (4/24/2015)
 Additions:
  - Magical Bees 2.3.0
