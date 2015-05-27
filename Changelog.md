@@ -1,6 +1,9 @@
 ## 1.0.4 (5/25/2015)
 Additions:
- - None
+ - Custom Main Menu 1.4
+     -Adds ability for a custom starting menu.
+ - Resource Loader 1.2
+     -Allows loading of custom graphics primarily for use with the Custom Main Menu mod.
  
 Removals:
  - None
